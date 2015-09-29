@@ -1,4 +1,5 @@
-Planet file one swc workshop.
+Another file one swc workshop.
 This is another line.
 And the third one.
-Fourth line again, just for fun. Conflict fun.
+
+No more fourth lines please.
