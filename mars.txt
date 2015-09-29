@@ -2,3 +2,4 @@ Another file one swc workshop.
 This is another line.
 And the third one.
 Fourth line.
+fith line too - will it conflict?
