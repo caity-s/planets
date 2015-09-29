@@ -1,4 +1,4 @@
 Planet file one swc workshop.
 This is another line.
 And the third one.
-Fourth line too - will it conflict?
+Fourth line again, just for fun. Conflict fun.
